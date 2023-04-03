@@ -1,70 +1,43 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<html>
+ <body>
+  <h1></h1>
+  <blockquote>HTML e CSS</blockquote>
+  <div align="center">
+   <img src="https://img.shields.io/github/last-commit/m-4morim/barbearia?logo=git"/>
+   <img src="https://img.shields.io/badge/status-completed-brightgreen"/>
+  </div><br>
+  <p>Projeto de estudo para aprimorar de forma prática os conceitos adquiridos após um primeiro contato com o código. Trata-se de uma landing page de uma suposta barbearia, com informações de produtos e formulário para contato.</p><br>
+  <p align="center">Tecnologias implementadas:</p>
+  <div align="center" style="display: inline_block">
+    <img align="center" alt="Logo-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align="center" alt="Logo-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  </div><br>
+  <div>
+   <p>Através desse ponto, pude:</p>
+   <ul>
+     <li>Criar a estrutura de uma aplicação client-side;</li>
+     <li>Aprender a sintaxe das tecnologias;</li>
+     <li>Aplicar as propriedades necessárias para atender ao propósito do software.</li>
+   </ul>
+  </div><br>
+ </body>
+ 
+##
+ <footer>
+  <div align="center">
+   <p>⚡ O projeto foi criado através da plataforma de estudos online Alura:</p><br>
+   <a href="https://cursos.alura.com.br/certificate/1411044a-962d-4bc7-9c71-0c70c39cd7dc">
+    <img alt="Certificado" src="https://img.shields.io/badge/Certificado%201-success-brightgreen?style=flat-square" />
+   </a>
+   <a href="https://cursos.alura.com.br/certificate/57090414-701c-44b2-8f01-a259f3385d03">
+    <img alt="Certificado" src="https://img.shields.io/badge/Certificado%202-success-brightgreen?style=flat-square" />
+   </a>
+   <a href="https://cursos.alura.com.br/certificate/0142df65-35de-4187-9dcd-bbb68b29255b">
+    <img alt="Certificado" src="https://img.shields.io/badge/Certificado%203-success-brightgreen?style=flat-square" />
+   </a>
+   <a href="https://cursos.alura.com.br/certificate/edfec179-f578-4fcd-a544-ed7e75c1e597">
+    <img alt="Certificado" src="https://img.shields.io/badge/Certificado%204-success-brightgreen?style=flat-square" />
+   </a>
+  </div>
+ </footer>
+</html>
