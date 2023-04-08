@@ -194,7 +194,7 @@ function App() {
   const [colaboradores, setColaboradores] = useState(inicial)
 
   function deletarColaborador() {
-    console.log('Deletetando colaborador');
+    console.log('Deletando colaborador');
   }
 
   return (
