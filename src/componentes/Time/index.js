@@ -7,8 +7,8 @@ const Time = ({ time, colaboradores }) => {
             <h3 style={{ borderColor: time.corSecundaria }}>{time.nome}</h3>
             <div className='colaboradores'>
                 {colaboradores.map((colaborador, indice) => {
-                    console.log('renderizando colaborador');
-                    return <Colaborador key={indice} colaborador={colaborador} corDeFundo={time.corSecundaria} />;
+                    console.log(<Colaborador key={indice} colaborador={colaborador} corDeFundo={time.corSecundaria} aoDeletar={() => {}} />);
+                    return <Colaborador key={indice} colaborador={colaborador} corDeFundo={time.corSecundaria} aoDeletar={() => {}} />;
                 })}
             </div>
         </section>
