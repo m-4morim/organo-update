@@ -1,7 +1,7 @@
 <html>
  <body>
-  <h1></h1>
-  <blockquote>HTML e CSS</blockquote>
+  <h1>Organo - Update</h1>
+  <blockquote>HTML, CSS, JavaScript e React</blockquote>
   <div align="center">
    <img src="https://img.shields.io/github/last-commit/m-4morim/barbearia?logo=git"/>
    <img src="https://img.shields.io/badge/status-completed-brightgreen"/>
